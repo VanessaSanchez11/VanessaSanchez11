@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there 👋, Vanessa Sanchez 👩‍💻</h1>
+<h1 align='center'>Hi there 👋,I'm Vanessa Sanchez 👩‍💻</h1>
 
 <p align='center'>
 As a highly skilled software developer with over three years of experience, I excel in web technologies such as HTML, CSS, JavaScript, React, Git, and Next JS. I have a proven track record in creating dynamic, visually appealing websites and applications for various industries, including product development, tourism, and B2B systems.
